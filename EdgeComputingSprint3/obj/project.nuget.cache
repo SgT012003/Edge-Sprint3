@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "PqRt+50A0ftHeykapJP71pxtp+DmeMFRCjucLNjxJ1M2QAB+HfPZLwrNE9G/N3zHQBioyf2r9H2OwPgSwfekow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor Didoff\\Desktop\\Inviron\\EdgeComputingSprint3\\EdgeComputingSprint3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor Didoff\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Victor Didoff\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Victor Didoff\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Victor Didoff\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Victor Didoff\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Victor Didoff\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Victor Didoff\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
