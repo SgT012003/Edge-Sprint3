@@ -12,10 +12,12 @@ The data was collected using buttons instead of the lazer sensors sugested for t
 
 ## Eletrical View
 ![Arduino msg](/midia/eletrical.jpeg)
-![Arduino msg](/midia/view.jpeg)
 
 ## Code 
 [Read the code!](/skecth.ino)
+
+## Serial View
+![Arduino msg](/midia/view.jpeg)
 
 ## Testing 
 ![Arduino testing](/midia/testing.mp4)
