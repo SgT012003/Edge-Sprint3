@@ -23,6 +23,7 @@ Project developed to collect data on the flow of people at the designated Hospit
 
 https://github.com/SgT012003/Edge-Sprint3/assets/106930436/f9e4d741-678f-4a39-a56d-a76a84641160
 
+
 ## Advice's
 * The Project functioned normaly in testing.
 * The data is sent through Serial Port.
