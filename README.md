@@ -21,9 +21,14 @@ The data was collected using buttons instead of the lazer sensors required for t
 ![Arduino testing](/midia/testing.mp4)
 
 ## Advice's
-
+* The Project functioned normaly in testing.
+* The data is sent through Serial Port.
+* 
 
 ## DataSheet's
 
 |  Components  |
 |:--------------|
+| 1x [Arduino R3](https://datasheet.octopart.com/A000066-Arduino-datasheet-170320520.pdf?_gl=1*22gmcz*_ga*ODU5ODM2OTE1LjE2OTU3NjI2NDM.*_ga_SNYD338KXX*MTY5NTc2MjY0NC4xLjAuMTY5NTc2MjY1My4wLjAuMA..) |
+| 1x [LED - red]|
+| 1x [LED - green]|
