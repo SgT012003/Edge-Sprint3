@@ -8,7 +8,7 @@
 
 ## About
 Project developed to collect data on the flow of people at the designated Hospital.
-The data was collected using buttons instead of the lazer sensors required for the project.
+The data was collected using buttons instead of the lazer sensors sugested for the project.
 
 ## Eletrical View
 ![Arduino msg](/midia/eletrical.jpeg)
@@ -32,3 +32,4 @@ The data was collected using buttons instead of the lazer sensors required for t
 | 1x [Arduino R3](https://datasheet.octopart.com/A000066-Arduino-datasheet-170320520.pdf?_gl=1*22gmcz*_ga*ODU5ODM2OTE1LjE2OTU3NjI2NDM.*_ga_SNYD338KXX*MTY5NTc2MjY0NC4xLjAuMTY5NTc2MjY1My4wLjAuMA..) |
 | 1x [LED - red]|
 | 1x [LED - green]|
+| 2x [Simple button]|
