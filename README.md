@@ -7,8 +7,8 @@
 | Diogo Julio    | 553837 |
 
 ## About
-Project developed to collect data on the flow of people at the designated Hospital.
-The data was collected using buttons instead of the lazer sensors sugested for the project.
+Project developed to collect data on the flow of people at the designated Hospital. We used Arduino componets according to the projects demands. Furthermore, the data collected is sent via via Serial Port, also according to the requirements.
+
 
 ## Eletrical View
 ![Arduino msg](/midia/eletrical.jpeg)
@@ -25,7 +25,7 @@ The data was collected using buttons instead of the lazer sensors sugested for t
 ## Advice's
 * The Project functioned normaly in testing.
 * The data is sent through Serial Port.
-* 
+* The data was collected using buttons instead of the lazer sensors sugested for the project.
 
 ## DataSheet's
 
