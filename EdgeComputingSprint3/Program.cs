@@ -1,4 +1,4 @@
-﻿using System.IO.Ports;
+using System.IO.Ports;
 
 class EdgeComputingSprint3
 {
@@ -45,7 +45,7 @@ class EdgeComputingSprint3
     }
     class Processor
     {
-        static DateTime[] Entrys = new DateTime[0];
+        static DateTime[] Entrys = Array.Empty<DateTime>();
         static int atual,entradas,saidas = 0;
 
         static public void Entry()
