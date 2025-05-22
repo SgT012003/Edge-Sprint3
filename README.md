@@ -1,5 +1,7 @@
 # Edge-Sprint4 1ESPR
 
+[![CodeFactor](https://www.codefactor.io/repository/github/sgt012003/edge-sprint3/badge)](https://www.codefactor.io/repository/github/sgt012003/edge-sprint3)
+
 |Nome|RM|
 |:--------------:|:------:|
 | Victor Didoff  | 552965 |
